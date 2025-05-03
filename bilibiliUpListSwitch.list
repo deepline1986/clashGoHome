@@ -1,1 +1,8 @@
+DOMAIN,app.bilibili.com,Proxy
+DOMAIN,cm.bilibili.com,Proxy
+DOMAIN,api.bilibili.com,Proxy
+DOMAIN,passport.bilibili.com,Proxy
+DOMAIN,broadcast.chat.bilibili.com,Proxy
+DOMAIN,grpc.biliapi.net,Proxy
+DOMAIN,dataflow.biliapi.com,Proxy
 DOMAIN,mall.bilibili.com
